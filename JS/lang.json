@@ -1,0 +1,106 @@
+
+
+{ 
+    
+"es": {
+    "identificacionSm": "Iniciar",
+    "identificacion": "Identificate",
+    "text-reflexion1": "¿Sabes qué?",
+    "text-reflexion2": "el ejercicio no sólo cambia tu cuerpo.cambia tu mente, tu actitud y tu humor",
+    "reflexionar": "A reflexionar",
+    "text-typed1": "Plazas limitadas,<br>reserva ahora<br>directamente<br>para unirte<br>a una clase!<br><br>",
+    "iniciar-sesion": "Iniciar sesión",
+    "home":"INICIO",
+    "actividades": "ACTIVIDADES",
+    "reservas": "RESERVAS",
+    "contacto": "CONTACTO",
+    "que-clase-tenemos": "¿Que clases tenemos?",
+    "pulsa-detalles": "Pulsa para ver las clases con detalles",
+    "botón-explorar": "Explorar",
+    "explorar-reflexion": "Clases",
+    "recibe-info-footer" : "SI DESEAS RECIBIR MÁS INFORMACIONES",
+    "contacta-con-nosotros" : "CONTACTA CON NOSOTROS",
+    "derechos-reservados" : "Todos los derechos reservados",
+    "privacidad" : "Politica de privacidad",
+    "cookies" : "Politica de cookies",
+    "codiciones-uso" : "Condiciones de Uso",
+    "darse-baja" : "Darse de baja",
+    "calorías/hora": "Calories/horas",
+    "actividades-table": "Clases",
+    "titulo-reserva":"Reserva tu clase",
+    "text-reflexion4": "¿Como funciona nuestro sistema?",
+    "text-reflexion5": " Accede y consulta la disponibilidad del día y la hora que quiere hacer la reserva. De forma instantánea, queda confirmada.",
+    "reflexionar6": "haz click aquí",
+    "explorar-reflexion3": "Acceder"
+
+},
+
+
+    
+"us": {
+    "identificacionSm": "Log in",
+    "identificacion": "Log in",
+    "text-reflexion1": "do you know?",
+    "text-reflexion2": "Exercise not only changes your body, it changes your mind, your attitude and your mood.",
+    "reflexionar": "To reflect",
+    "text-typed1": "Limited places,<br>book direct now<br>to join a class!<br><br>",
+    "iniciar-sesion": "Log In",
+    "home":"HOME",
+    "actividades": "ACTIVITIES",
+    "reservas": "RESERVATIONS",
+    "contacto": "CONTACT",
+    "que-clase-tenemos": "What classes do we have?",
+    "pulsa-detalles": "Click to see the classes with details",
+    "botón-explorar": "Explore",
+    "explorar-reflexion": "Classes",
+    "recibe-info-footer" : "IF YOU WANT TO RECEIVE MORE INFORMATION",
+    "contacta-con-nosotros" : "CONTACT US",
+    "derechos-reservados" : "All rights reserved",
+    "privacidad" :  "Privacy Policy",
+    "cookies" :  "Cookie Policy",
+    "codiciones-uso" : "Terms of Use",
+    "darse-baja" : "Unsubscribe",
+    "calorias-por-hora": "Calories/hour",
+    "actividades-table": "Classes",
+    "titulo-reserva":"book your class",
+    "text-reflexion4": "How does our system work?",
+    "text-reflexion5": "Access and check the availability of the day and time you want to make the reservation. Instantly, it is confirmed.",
+    "reflexionar6": "click here",
+    "explorar-reflexion3": "Access"
+
+    },
+
+ 
+
+"fr": {
+    "identificacionSm": "Connecter",
+    "identificacion": "Connexion",
+    "text-reflexion1": "savez vous?",
+    "text-reflexion2": "L'exercice ne change pas seulement votre corps, il change votre esprit, votre attitude et votre humeur.",
+    "reflexionar": "réflexion",
+    "text-typed1": "Places limitées,<br>réservez directement<br>maintenant<br>pour rejoindre<br>un cours!<br><br>",
+    "iniciar-sesion": "Commencer la session",
+    "home":"ACCEUIL",
+    "actividades": "ACTIVITÉS",
+    "reservas": "RESERVATIONS",
+    "contacto": "CONTACT",
+    "que-clase-tenemos":"Quelles classes avons-nous?",
+    "pulsa-detalles": "Cliquez pour voir les cours avec les détails",
+    "botón-explorar": "Explorer",
+    "explorar-reflexion": "Classes",
+    "recibe-info-footer" :  "SI VOUS VOULEZ RECEVOIR PLUS D'INFORMATIONS",
+    "contacta-con-nosotros" : "CONTACTER-NOUS ", 
+    "derechos-reservados" : "Tous droits réservés",
+    "privacidad" : "Politique de confidentialité",
+    "cookies" : "Politique relative aux cookies",
+    "codiciones-uso" : "Conditions d'utilisation",
+    "darse-baja" : "Se désinscrire",
+    "calorias-por-hora": "calories/heure",
+    "actividades-table": "Classes",
+    "titulo-reserva":"Réservez votre cours ",
+    "text-reflexion4": "Comment fonctionne notre système ?",
+    "text-reflexion5": "Accédez et vérifiez la disponibilité du jour et de l'heure à laquelle vous souhaitez effectuer la réservation. Instantanément, c'est confirmé.",
+    "reflexionar6": "Cliquez ici",
+    "explorar-reflexion3": "Acceder"
+ }
+}
