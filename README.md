@@ -7,7 +7,7 @@
       <h5><a href="#descripcion">Descripción</a></h5>
       <h5><a href="#requisitos-funcionales">Requisitos funcionales</a></h5>
       <h5><a href="#analisis">Analísis y diseño web</a></h5>
-      <h5><a href="#base de datos">Base de datos</a></h5>
+      <h5><a href="#base-de-datos">Base de datos</a></h5>
       <h5><a href="#pruebas">Pruebas</a></h5>
       <h5><a href="#despliegue">Despliegue</a></h5>
       <h5><a href="#herramientas">Herramientas</a></h5>
@@ -40,7 +40,7 @@
 <p id="descripcion">
 <h3>a-Titulo: FIT_Center</h3>
 <h3>b-Logo: </h3>
-<img src="Product-images/logo">
+<img src="Product-images/logo.png">
 <h3>c-Descripción: </h3>
 Este proyecto muestra todos los pasos seguidos para construir una Aplicación Web para la reserva de clases de deporte a distancia (Online), facilitando el acceso a todas las informaciones necesarias y empezando desde cero. 
 
@@ -106,7 +106,7 @@ R10: Funciones del Panel de la administración de la aplicación.
 <p id="analisis">
 </p>
 
-<h5><a href="#base de datos">Base de datos</a></h5>
+<h5><a href="#base-de-datos">Base de datos</a></h5>
 <p id="base-de-datos">
 <h3>Modelo relacional</h3>
 <img src="Product-images/modelo-relacional.png">
