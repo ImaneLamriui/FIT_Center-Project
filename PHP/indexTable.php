@@ -64,7 +64,7 @@
 
                     <li class="nav-item">
                         <a class="nav-link me-3 lang" key="home" style="color: #7a7a7a;
-            font-weight:400;" href="../index.php">HOME</a>
+            font-weight:400;" href="../index.php">INICIO</a>
                     </li>
 
                     <li class="nav-item">
