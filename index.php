@@ -116,7 +116,7 @@
           <h1 class="title-reflexion  text-center lang" key="text-reflexion1">¿Sabes qué?</h1>
           <p class="text-reflexion  text-center lang" key="text-reflexion2">el ejercicio no sólo cambia tu cuerpo.cambia tu mente, tu actitud y tu humor</p>
           <p class="lang  text-center title-reflexion1" key="reflexionar">A reflexionar</p>
-          <a href="PHP/indexTable.php" style="color:#f5f6f7;"><button type="submit" class="button-explorar2 lang mt-3" key="explorar-reflexion ">Clases</button></a>
+          <a href="PHP/indexTable.php" style="color:#f5f6f7;"><button type="submit" class="button-explorar2 lang mt-3" key="explorar-reflexion">Clases</button></a>
         </div>
         <div class="col-12 col-md-6 col-lg-6 mt-5 mb-5">
           <img class="img-reflexion" src="Images/yogaHomeAdvice.jpg" alt="">
@@ -312,7 +312,7 @@
         <div style="position: absolute; margin-top: 60px;">
           <p class="telef">
             <i class="fa-solid fa-phone" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; "></i>
-            6006066066
+            600606606
           </p>
         </div>
 
