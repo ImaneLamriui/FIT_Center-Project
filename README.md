@@ -1,9 +1,7 @@
 # Proyecto_FIT_Center
 <h1><a href="#indice">Índice</a></h1>
-
-<ul>
 <h1><a href="#proyecto">Proyecto</a></h1>
-</ul>
+<ul>
 <li><a href="#descripcion">Descripción</a></li>
 <li><a href="#requisitos-funcionales">Requisitos funcionales</a></li>
 <li><a href="#analisis">Analísis y diseño web</a></li>
@@ -18,15 +16,13 @@
 <li><a href="#librerias">Librerías</a></li>
 <li><a href="#pluggins">Pluggins</a></li>
 <li><a href="#bibliotecas">Bibliotecas</a></li>
-<li><a href="#otros">Otros</a></li>
-
+<li><a href="#otros">Otros</a></li></ul>
+<h1><a href="#producto">Producto</a></h1>
 <ul>
-<h1><a href="producto">Producto</a></h1>
-</ul>
 <li><a href="#accesibilidad">Accesibilidad y usabilidad</a></li>
 <li><a href="#panel-del-administrador">Panel del administrador</a></li>
 <li><a href="#parte-publica">Parte pública de la aplicación</a></li>
-<li><a href="#parte-privada">Parte privada de la aplicación</a></li>
+<li><a href="#parte-privada">Parte privada de la aplicación</a></li></ul>
 
 <h1><a href="#bibliografia">Bibliografía</a></h1>
 
@@ -34,12 +30,11 @@
 <br><br><br>
 <h1 id="indice">Indice</h1>
    <img src="Product-images/índice.png" alt="indice">
-<h1 id="proyecto">Proyecto</a></h1>
+<h1 id="producto">Producto</h1>
 <h3 id="descripcion">Descripción</h3>
-<p>
 <h3>a-Titulo: FIT_Center</h3>
 <h3>b-Logo: </h3>
-    <img src="Product-images/logo.png">
+    <img src="Product-images/logo.png"  alt="logo">
 <h3>c-Descripción: </h3>
 Este proyecto muestra todos los pasos seguidos para construir una Aplicación Web para la reserva de clases de deporte a
 distancia (Online).
@@ -51,8 +46,6 @@ Este proyecto ha sido construido puramente con:
 <li>Tecnologías como AJAX, JSON, jQuery.</li>
 <li>Frameworks: Bootstrap, fontawesome.</li>
 </ul>
-
-</p>
 <h3 id="requisitos-funcionales">Requisitos funcionales</h3>
 <ul>
     <li>R1: Diseño Responsive: Las páginas web de la aplicación son todas (responsives) y adaptables con diferentes
@@ -97,25 +90,19 @@ Este proyecto ha sido construido puramente con:
     <li>R7: Cancelar reserva.</li>
 
     <li>R8: Traducción: la página de inicio está disponible en tres idiomas: francés, inglés y español, la funcionalidad de este requisito será realizado mediante JavaScript (la tecnología Json), y la utilización de la herramienta (API) Online: flagsapi.</li>
-                 <img src="Product-images/multi-lenguajes.png">
+                 <img src="Product-images/multi-lenguajes.png"  alt="traduccion">
 
     <li>R9: Darse de baja de la aplicación, se le solicita al usuario pulsar un botón que le parecerá en seguida para
         confirmar baja y se deriva a la página de inicio.</li>
 
     <li>R10: Funciones del Panel de la administración de la aplicación.</li>
-    </p>
+ 
     <h2 id="analisis">Analísis y diseño web</h2>
-    <p>
-    </p>
-
     <h2 id="base-de-datos">Base de datos</h2>
-    <p>
     <h3>Modelo relacional</h3>
-    <img src="Product-images/modelo-relacional.png">
+    <img src="Product-images/modelo-relacional.png"  alt="bd1">
     <h3>Modelo entidad-relación</h3>
-    <img src="Product-images/Modelo-entidad-relacion.png">
-    </p>
-
+    <img src="Product-images/Modelo-entidad-relacion.png"  alt="bd2">
     <h2 id="pruebas">Pruebas</h2>
     <ul>
         <li>CASO PRUEBA 1: Registrar el usuario con código de verificación.</li>
@@ -163,9 +150,9 @@ Este proyecto ha sido construido puramente con:
         <li>JavaScript: lenguaje de programación alado del cliente.</li> 
     </ul>
     <h2 id="sistema-base-de-datos">Sistema Base de datos</h2>
-    <p>
+
     <h3>Sistema Base de datos</h3>
-    MySQL: es muy utilizado para proyectos y aplicaciones PHP. En MySQL hay múltiples motores de almacenamiento, lo cual es de mayor flexibilidad a los desarrolladores en cuanto al uso de las tablas. </p>
+    <p>MySQL: es muy utilizado para proyectos y aplicaciones PHP. En MySQL hay múltiples motores de almacenamiento, lo cual es de mayor flexibilidad a los desarrolladores en cuanto al uso de las tablas. </p>
 
     <h2 id="frameworks">Frameworks</a></h2>
    
@@ -220,18 +207,18 @@ Este proyecto ha sido construido puramente con:
 
     <h1>Producto</h1>
     <h3 id="accesibilidad">Accesibilidad y usabilidad</h3>
-       <img src="Product-images/Test-con-WAVE.png">
+       <img src="Product-images/Test-con-WAVE.png" alt="wave">
     <h3 id="panel-del-administrador">Panel del administrador</h3>
-       <img src="Product-images/Panel-administrador.png">
+       <img src="Product-images/Panel-administrador.png" alt="panel-administrador">
     <h3 id="parte-publica">Parte pública de la aplicación (muestra)</h3>
-       <img src="Product-images/Clases.png">
-       <img src="Product-images/Parte-contactar">
-       <img src="Product-images/Tabla-Actividades-imprimible">
+       <img src="Product-images/Clases.png"  alt="clases">
+       <img src="Product-images/Parte-contactar" alt="contact" >
+       <img src="Product-images/Tabla-Actividades-imprimible" alt="Actividades">
     <h3 id="parte-privada">Parte privada de la aplicación</h3>
-       <img src="Product-images/Organización-Reservas.png">
-       <img src="Product-images/reservas-del-usuario.png">
+       <img src="Product-images/Organización-Reservas.png" alt="reservas-org">
+       <img src="Product-images/reservas-del-usuario.png" alt="reservas">
     <h3 id="formularios">Formularios</h3>
-       <img src="Product-images/form-example.png">
+       <img src="Product-images/form-example.png" alt="forms">
    
     <h1 id="bibliografia">Bibliografía</h1>
     <ul>
