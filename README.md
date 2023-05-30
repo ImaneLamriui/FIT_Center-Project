@@ -2,7 +2,7 @@
 <h1><a href="#indice">Índice</a></h1>
 <h1><a href="#proyecto">Proyecto</a></h1>
 <ul>
-<li><a href="#descripcion">Descripción</a></li>
+<li><a href="#introduccion">Introducción</a></li>
 <li><a href="#requisitos-funcionales">Requisitos funcionales</a></li>
 <li><a href="#analisis">Analísis y diseño web</a></li>
 <li><a href="#base-de-datos">Base de datos</a></li>
@@ -16,7 +16,9 @@
 <li><a href="#librerias">Librerías</a></li>
 <li><a href="#pluggins">Pluggins</a></li>
 <li><a href="#bibliotecas">Bibliotecas</a></li>
-<li><a href="#otros">Otros</a></li></ul>
+<li><a href="#otros">Otros</a></li>
+</ul>
+
 <h1><a href="#producto">Producto</a></h1>
 <ul>
 <li><a href="#accesibilidad">Accesibilidad y usabilidad</a></li>
@@ -28,12 +30,13 @@
 
 <!--  finalizan los titulos -->
 <br><br><br>
+
 <h1 id="indice">Indice</h1>
    <img src="Product-images/índice.png" alt="indice">
 <h1 id="producto">Producto</h1>
-<h3 id="descripcion">Descripción</h3>
+<h3 id="introduccion">Introducción</h3>
 <h3>a-Titulo: FIT_Center</h3>
-<h3>b-Logo: </h3>
+<h3>b-Logotipo: </h3>
     <img src="Product-images/logo.png"  alt="logo">
 <h3>c-Descripción: </h3>
 Este proyecto muestra todos los pasos seguidos para construir una Aplicación Web para la reserva de clases de deporte a
@@ -96,6 +99,7 @@ Este proyecto ha sido construido puramente con:
         confirmar baja y se deriva a la página de inicio.</li>
 
     <li>R10: Funciones del Panel de la administración de la aplicación.</li>
+</ul>
  
     <h2 id="analisis">Analísis y diseño web</h2>
     <h2 id="base-de-datos">Base de datos</h2>
@@ -161,7 +165,8 @@ Este proyecto ha sido construido puramente con:
         herramienta.</li>
 
         <li>Awesome: es un framework de iconos vectoriales y estilos CSS3. Este framework es utilizado para sustituir
-        imágenes de iconos comunes por gráficos vectoriales convertidos en fuentes. Ha sido utilizado en varias ocasiones en este proyecto, para la integración de los iconos en HTML utiliza la etiqueta '<i></i>'. </li></ul>
+        imágenes de iconos comunes por gráficos vectoriales convertidos en fuentes. Ha sido utilizado en varias ocasiones en este proyecto, para la integración de los iconos en HTML utiliza la etiqueta 'i'. </li>
+    </ul>
 
     <h2 id="tecnologias">Tecnologías</h2>
     <ul>
@@ -205,7 +210,7 @@ Este proyecto ha sido construido puramente con:
         <br>
         AdobeColor. </p>
 
-    <h1>Producto</h1>
+    <h1 id="producto">Producto</h1>
     <h3 id="accesibilidad">Accesibilidad y usabilidad</h3>
        <img src="Product-images/Test-con-WAVE.png" alt="wave">
     <h3 id="panel-del-administrador">Panel del administrador</h3>
@@ -241,6 +246,3 @@ Este proyecto ha sido construido puramente con:
         <li>Traducción:<a href="https://flagsapi.com">API-Traducción</a></li>
 
         <li><a href="https://www.canva.com">Herramienta para la Defensa del proyecto</a></li>
-    
-    
-    
