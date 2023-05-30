@@ -37,7 +37,7 @@
                     cursor: pointer;"><i class="fa-solid fa-eye-slash fa-lg"></i></span>
                     <input type="password" name="contrasena" id="password">
                 </div>
-                <label for="password">Repite contraseña</label>
+                <!-- <label for="password">Repite contraseña</label>
                 <div class="wrapp-input" style="  position: relative;
                 width: 100%;"><span class="icon-eye" style="position: absolute;
                     right: 20px;
@@ -45,7 +45,7 @@
                     transform: translateY(-50%);
                     cursor: pointer;"><i class="fa-solid fa-eye-slash fa-lg"></i></span>
                     <input type="password" name="contrasenaConfirm" id="password">
-                </div>
+                </div> -->
 
                 <input type="submit" value="Iniciar">
             </form>
