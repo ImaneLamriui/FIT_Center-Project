@@ -2,9 +2,9 @@
 
 //Creo las variables de conexión a MySQL
 $servidor = "localhost";
-$user = "debianDB";
-$password = "debianDB";
-$basedatos = "BD_Proyecto_DAW";
+$user = "dev";
+$password = "mysql";
+$basedatos = "bd_proyecto_daw";
 
 //Establecer la conexión con MySQL
 try {

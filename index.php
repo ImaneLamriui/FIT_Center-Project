@@ -222,7 +222,7 @@
             <div class="Actividad">
               <img src="Images/musculacionHome.jpg" alt="">
               <div class="overlay">
-                <p>Musculación</p>
+                <p class="lang" key="musculacion">Musculación</p>
                 <p>220 <span class="lang" key="calorias-por-hora">calorías/hora</span></p>
                 <!-- solid o llenas -->
                 <i class="fa-solid fa-star" style="color: #fd7e14"></i>
@@ -312,7 +312,7 @@
         <div style="position: absolute; margin-top: 60px;">
           <p class="telef">
             <i class="fa-solid fa-phone" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; "></i>
-            600606606
+            XXXXXXXXX
           </p>
         </div>
 
