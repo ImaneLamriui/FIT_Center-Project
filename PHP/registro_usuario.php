@@ -36,7 +36,7 @@ if (isset($_POST['registrar'])){
   $mail->Host = 'smtp.gmail.com';
   $mail->SMTPAuth = true;
   $mail->Username = 'fitcenter2023@gmail.com';//my email
-  $mail->Password = 'eqmkecipdkbmyxkb';
+  $mail->Password = 'secret';    //PASSWORD APP
   $mail->SMTPSecure = 'ssl';//tls
   $mail->Port = 465;//587
 
