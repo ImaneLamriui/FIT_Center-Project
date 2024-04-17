@@ -186,7 +186,7 @@
           <!-- CLASE 4 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="Actividad">
-              <img src="Images/crossfit2.jpg" alt="">
+              <img src="Images/crossfit2.jpg" alt="crossfit">
               <div class="overlay">
                 <p>Cross Training</p>
                 <p>800 <span class="lang" key="calorias-por-hora">calorías/hora</span></p>
@@ -319,7 +319,7 @@
         <div class="d-flex flex-wrap align-items-center justify-content-center icons" style="margin-top: 70px;">
           <a href="" data-bs-toggle="modal" data-bs-target="#contactar" target="_blank" rel="nooopener noreferrer"><i class=" bi bi-envelope-at"></i></a>
           <a href="" target="_blank" rel="nooopener noreferrer"><i class="bi bi-instagram"></i></a>
-          <a href="https://twitter.com/imanelamriui" target="_blank" rel="nooopener noreferrer"><i class=" bi bi-twitter"></i></a>
+          <a href="https://www.linkedin.com/in/imane-l/" target="_blank" rel="nooopener noreferrer"><i class=" bi bi-linkedin"></i></a>
           <a href="" target="_blank" rel="nooopener noreferrer"><i class="bi bi-telegram"></i></a>
         </div>
 
