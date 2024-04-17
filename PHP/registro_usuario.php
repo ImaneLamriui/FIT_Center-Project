@@ -27,7 +27,7 @@ $codigo = rand(10000,99999);
 
 // mensaje
 $mensaje = ' <p>tu codigo de vereficación es :</p>
-<p><a href="http://192.168.1.48/PHP/confirm.php?Correo='.$email.'">verificar cuenta</a></p>
+<p><a href="http://fit-center.000.pe/PHP/confirm.php?Correo='.$email.'">verificar cuenta</a></p>
 <h2>'.$codigo.'</h2> ';
 
 if (isset($_POST['registrar'])){
