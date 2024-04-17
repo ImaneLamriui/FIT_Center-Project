@@ -1,10 +1,10 @@
 <?php
 
 //Creo las variables de conexión a MySQL
-$servidor = "localhost";
-$user = "dev";
-$password = "mysql";
-$basedatos = "bd_proyecto_daw";
+$servidor = "sql311.infinityfree.com";
+$user = "if0_36382254";
+$password = "FvUQJ7hUM7V8A";
+$basedatos = "if0_36382254_bd_proyecto_daw";
 
 //Establecer la conexión con MySQL
 try {
