@@ -9,7 +9,7 @@
        
     if( $res->fetchColumn() > 0){
    
-        $conexion->query("update usuarios set confirmado = 'si' where Correo = '$email' ");
+        $conexion->query("update usuarios set confirmado = 'si' where Correo = '$email'");
         echo 'TODO CORRECTO  ya puedes <a href="indexLogin.php">Iniciar sesion </a>';
     }else{
         echo "codigo invalido";
