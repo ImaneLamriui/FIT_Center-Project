@@ -1,6 +1,7 @@
 # Proyecto_FIT_Center
 ### Proyecto Final del grado DAW
 ##  http://fit-center.000.pe/
+## Correo-APP: fitcenter2023@gmail.com 
 <h1><a href="#indice">Índice</a></h1>
 <h1><a href="#proyecto">Proyecto</a></h1>
   <ul>
