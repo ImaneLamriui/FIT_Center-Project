@@ -18,7 +18,7 @@ $mensaje = '
 </head>
 <body>
   <p>tu codigo de vereficacion es :</p>
-  <p><a href="http://localhost/PROYECTO_DAW_pruebas/PHP/confirm.php?Correo='.$email.'">verificar cuenta</a></p>
+  <p><a href="http://fit-center.000.pe/PHP/confirm.php?Correo='.$email.'">verificar cuenta</a></p>
   <h2>'.$codigo.'</h2> 
   
 </body>
