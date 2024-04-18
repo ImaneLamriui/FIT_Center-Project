@@ -241,8 +241,10 @@
 
     <!-- REFLEXION -->
     <section>
+    <h1 class="text-center title-reflexion titulo-clases lang" key="Experiencia-óptima-en-cualquier-dispositivo">¡Experiencia óptima en cualquier dispositivo!</h1>
       <div class="container-fluid reflexion" style=" background: linear-gradient(90deg, #f5f6f7, #d6e7f1, #f5f6f7 );height:600px;">
-        <div class="row  d-flex justify-content-center align-items-center  mt-5 py-5">
+      
+        <div class="row d-flex justify-content-center align-items-center  mt-5 py-5">
           <div class="col-12 col-md-6 col-lg-6 mt-3">
 
             <img class="img-reflexion" src="Images/pantallas2.png" alt="" style="width:90%; margin-left:20px;">
