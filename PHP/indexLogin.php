@@ -10,18 +10,18 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <!-- CSS -->
     <link rel="stylesheet" href="../Style/styleLogin.css">
-       <!-- FONT LOGO -->
+    <!-- FONT LOGO -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@500;600&family=Bruno+Ace+SC&family=Pathway+Extreme:wght@500&family=Poppins:wght@500&family=Quicksand:wght@500&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body style="height: 1000px" ;>
     <div class="container">
         <div class="container-form">
-        <a class="" href="" style=" text-decoration: none; text-align: center;">
+            <a class="" href="" style=" text-decoration: none; text-align: center;">
                 <p id="" class="logo-cabecera d-flex d-sm-none d-none d-md-block">Fit</p>
-              </a>
+            </a>
             <h2 class="title">Iniciar sesión</h2>
             <form action="loginUsuario.php" method="POST">
                 <label for="Email">Correo electrónico</label>

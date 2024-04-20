@@ -15,16 +15,16 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@500;600&family=Bruno+Ace+SC&family=Pathway+Extreme:wght@500&family=Poppins:wght@500&family=Quicksand:wght@500&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-    
+
 </head>
 
-<body class="">
+<body style="height: 1000px" ;>
     <div class="container">
         <div class="container-form">
 
-        <a class="" href="" style=" text-decoration: none; text-align: center;">
+            <a class="" href="" style=" text-decoration: none; text-align: center;">
                 <p id="" class="logo-cabecera d-flex d-sm-none d-none d-md-block">Fit</p>
-              </a>
+            </a>
             <form action="registro_usuario.php" method="POST">
                 <label for="text">Apellido1</label>
                 <input type="text" name="Primer_Apellido">
@@ -56,7 +56,7 @@
                     <input type="password" name="contrasenaConfirm" id="password2">
                 </div>
                 <!-- aqui repite contrsaeña -->
-         
+
                 <input type="submit" value="Registrar" name="registrar" id="registrar">
             </form>
 
