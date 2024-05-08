@@ -1,7 +1,8 @@
-# Proyecto_FIT_Center
 ### Proyecto Final del grado DAW
-##  http://fit-center.000.pe/
-## Correo-APP: fitcenter2023@gmail.com 
+###  http://fit-center.000.pe/
+### Correo-APP: fitcenter2023@gmail.com 
+### Seguridad: 
+Implementación de un sistema de confirmación por correo electrónico en la aplicación, lo cual añade una capa adicional de seguridad al proceso de registro y __autenticación__ de usuarios. Esto ayuda a asegurar que solo usuarios legítimos puedan acceder a la plataforma, previene la creación de cuentas falsas o maliciosas, y verifica la información del usuario a través de enlaces o __códigos únicos__ en los correos de confirmación. Además, proporciona protección contra __ataques de fuerza bruta__ al agregar un paso adicional al proceso de registro
 <h1><a href="#indice">Índice</a></h1>
 <h1><a href="#proyecto">Proyecto</a></h1>
   <ul>
