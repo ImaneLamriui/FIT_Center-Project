@@ -86,7 +86,7 @@ body {
 button .registrar:hover {
   color: #7a7a7a;
   font-weight: 400;
-  font: 18px;
+  font-size: 18px;
 }
 
 .collapse .btn {
@@ -527,7 +527,7 @@ a {
     margin-bottom: 10px;
   }
   .reflexion {
-    height: 350;
+    height: 350px;
     margin-top: 80px;
 
   }
@@ -545,6 +545,7 @@ a {
 @media screen and (max-width: 400px) {
   .titulo-actividades {
     font-size: 1rem;
+
   }
 }
 
@@ -558,7 +559,7 @@ a {
   font-size: 1rem;
 }
 .button-explorar:hover {
-  box-shadow: 2px px 1px 3px #000e31;
+  box-shadow: 2px 1px 1px 3px #000e31;
 }
 
 @media screen and (max-width: 800px) {

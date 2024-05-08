@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
 
 <head>
   <meta charset="UTF-8">
@@ -103,6 +103,7 @@
     </div>
 
   </nav>
+  
   <div class="inicio">
     <p class="d-none d-lg-block d-sm-none" id="typedvelocity" style="padding: 30px;">
       <span class="typed"></span>
@@ -122,7 +123,7 @@
           <img class="img-reflexion" src="Images/yogaHomeAdvice.jpg" alt="">
         </div>
       </div>
-    </div>
+    </div></section>
     <!-- CLASES -->
     <section class="text-center">
       <h1 class="title-reflexion titulo-clases lang" key="que-clase-tenemos">¿Que clases tenemos?</h1>
@@ -272,8 +273,8 @@
       </div>
     </section>
 
-    <!-- CONTACTO-->
-
+    
+    <!-- contacto -->
     <div class="container contenedor-footer">
       <div class="row">
 
@@ -283,7 +284,7 @@
           <button class="texto-footer-contacto btn text-center lang" data-bs-toggle="modal" data-bs-target="#contactar" key="contacta-con-nosotros">CONTACTA CON
             NOSOTROS</button>
 
-          <!-- Modal -->
+          <!-- Modal: formulario de contacto -->
           <div class="modal fade" id="contactar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
@@ -328,9 +329,9 @@
 
       </div>
     </div>
-    </div>
+    
 
-    <!-- Pie de pagina O  footer -->
+    <!-- Pie de pagina -->
     <footer>
 
 
